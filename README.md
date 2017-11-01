@@ -7,4 +7,4 @@ Aplicativo feito para estudar sobre desenvolvimento hibrido e multiplataforma.
 
 Este aplicativo só foi possível ser feito através do tutorial criado pelo AnsoDEV: [Tutorial de Ionic v1](https://www.youtube.com/playlist?list=PLpP8rO2FXVXTJRTJ2j6rYLKQrQC1XgIra)
 
-Com este turorial aprendi sobre ionic e já estou com outros projetos pra publicar.
+Com este tutorial aprendi sobre ionic e já estou com outros projetos em mente para desenvolver.
